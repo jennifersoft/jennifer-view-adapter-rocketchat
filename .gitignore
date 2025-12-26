@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+out/
+META-INF/
+
+# Maven
+target/
+
+# Mac
+.DS_Store
+
+
+jennifer-view-adapter-rocketchat.iml
